@@ -1,0 +1,59 @@
+                 					Inventory management system 
+
+ 
+
+Introduction: 
+
+ 	The process by which you track your goods throughout your entire supply chain, from purchasing to production to end sales. 
+
+ 
+
+Scope: 
+
+Inventory management is a key aspect of operations research that involves planning, controlling, and optimizing the flow of goods and materials in a business. It can help reduce costs, improve customer service, and enhance operational efficiency 
+
+ 
+
+Functional requirements: 
+
+Inventory tracking 
+
+The system should check the availability of the products. 
+
+The system should check the quanlity  the items. 
+
+User management 
+
+The user should integrate with the other business systems, to promote 
+
+the flow of information between the departments.  
+
+The user can modify cart items.  
+
+Search and reporting 
+
+The system shall generate the history and the records of the user details and the products sold. 
+
+The system should allow the client to search for the required products based on ID or NAME.  
+
+ 
+
+Non-Functional requirements: 
+
+Performance 
+
+1.It is a measure of how quickly a system responds to data requests based on the throughput and utilization. 
+
+            2. To allow the user to access the platform anytime and anywhere. 
+
+ 
+
+Privacy 
+
+      The user password should be secured. The system should not share the user information to unauthorized websites. 
+
+  Future Scope: 
+
+          1. AI-informed forecasting allows teams to accurately predict seasonal demand based on live and historical data, enabling teams to adjust orders in direct responses. 
+
+ 	 
